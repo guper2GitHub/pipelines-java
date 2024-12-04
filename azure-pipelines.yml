@@ -6,6 +6,7 @@
 trigger:
 - main
 
+
 strategy:
   matrix:
     jdk10_linux:
