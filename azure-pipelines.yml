@@ -5,11 +5,11 @@
 
 # Dummy comment
 
-trigger:
-- none
-
 # trigger:
-# - main
+# - none
+
+trigger:
+- main
 
 
 strategy:
